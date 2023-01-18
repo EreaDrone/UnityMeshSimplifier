@@ -58,7 +58,7 @@ namespace UnityMeshSimplifier
         #endregion
 
         #region Nested Types
-        private struct RendererInfo
+        public struct RendererInfo
         {
             public string name;
             public bool isStatic;
